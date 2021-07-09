@@ -1,7 +1,4 @@
 This is a text file. Change made here.
 
-<<<<<<< HEAD
 This change was made in branch BR-2. Another chanfe on master branch.
-=======
 This change was made in branch BR-2. Another change in the BR-2 branch.
->>>>>>> Br-2
